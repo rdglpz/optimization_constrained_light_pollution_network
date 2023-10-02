@@ -1,0 +1,23 @@
+
+python3 01_precalculate_regions_of_influence.py 
+  232  pip3 install -r requirements.txt 
+  233  python --version
+  234  vim 01_precalculate_regions_of_influence.py 
+  235  python3 01_precalculate_regions_of_influence.py 
+  236  cd ..
+  237  ls
+  238  cat requirements.txt 
+  239  pip install scipy
+  240  python3 01_precalculate_regions_of_influence.py 
+  241  ls
+  242  cd reproduce/
+  243  python3 01_precalculate_regions_of_influence.py 
+  244  pip install skimage
+  245  pip install scikit-image
+  246  python3 01_precalculate_regions_of_influence.py 
+  247  pip install ipython
+  248  python3 01_precalculate_regions_of_influence.py 
+  249  ls
+  250  python paso2_lightPollexperiments.py 
+  251  pip freeze > requirements.txt
+  252  cat requirements.txt 
